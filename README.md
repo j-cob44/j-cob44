@@ -1,6 +1,4 @@
-Hi there 👋
-
-## About Me:
+## Hi there 👋
 My name is Jacob Burton. I am a Arizona State University Computer Science graduate with a concentration in Software Engineering. My journey with programming began in high school, where I learned web development and database management skills. Through University to now, I've been learning and creating standalone applications in C, Java, and Python. 
 
 Currently, I am developing the Max Hit Calculator Plugin for Runelite and many other personal projects listed below. In the past, I was giving the opportunity to work with the NASA: Psyche Mission to create two Physics simulations of the tests for their Hall Thruster used on the mission. 
@@ -13,6 +11,3 @@ Development Tools: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-s
 Python Frameworks/Libraries: ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
 
 Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-cob44&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
